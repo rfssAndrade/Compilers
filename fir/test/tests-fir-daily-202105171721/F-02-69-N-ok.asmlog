@@ -1,0 +1,13 @@
+INITIAL OFFSET: 8
+ARG: x, 4
+IN ARGS
+OFFSET: x, 8
+INITIAL OFFSET: 0
+ARG: f, 0
+IN BODY
+OFFSET: f, 0
+INITIAL OFFSET: 0
+ARG: fir, 4
+IN BODY
+OFFSET: fir, -4
+Cannot call function 'f'

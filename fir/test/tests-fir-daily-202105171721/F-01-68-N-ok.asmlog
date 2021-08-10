@@ -1,0 +1,17 @@
+INITIAL OFFSET: 0
+ARG: x, 4
+GLOBAL!
+OFFSET: x, 0
+INITIAL OFFSET: 0
+ARG: f, 0
+IN BODY
+OFFSET: f, 0
+INITIAL OFFSET: 0
+ARG: x, 4
+IN BODY
+OFFSET: x, -4
+INITIAL OFFSET: 0
+ARG: fir, 4
+IN BODY
+OFFSET: fir, -4
+Cannot call function 'f'
